@@ -1,0 +1,10 @@
+{
+  "outDir": "./api",
+  "name": "ys",
+  "originUrl": "http://8.129.180.37:8089/api/v2/api-docs",
+  "templatePath": "./pontTemplate",
+  "surrounding": "typeScript",
+  "mocks": {
+    "enable": false
+  }
+}
